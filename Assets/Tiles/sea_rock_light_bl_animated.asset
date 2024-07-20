@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43134aaa8003f4b49998693fd5313c46, type: 3}
+  m_Name: sea_rock_light_bl_animated
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1327405901632745032, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  - {fileID: -8706882052489519793, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  - {fileID: -9080009411483787182, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  - {fileID: 8180584160036437562, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  - {fileID: 6133273111275355338, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  - {fileID: 2718076407920025025, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  - {fileID: 7239272369528505996, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  - {fileID: 1725861779697190452, guid: 46ac0a1a8b23b5c41856dd1d6843ae8f, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
